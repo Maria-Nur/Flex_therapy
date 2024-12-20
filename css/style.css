@@ -1,5 +1,6 @@
 .hero-bg{
     background: url('../images/hero.jpg') no-repeat center center !important;
+    object-fit: cover;
     /* padding: 200px !important; */
 }
 body{
