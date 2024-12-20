@@ -1,0 +1,15 @@
+.hero-bg{
+    background: url('../images/hero.jpg') no-repeat center center !important;
+    /* padding: 200px !important; */
+}
+body{
+    background-color: #000000 !important;
+    font-family: "Inter", serif;
+    
+}
+.active-class{
+    position: relative;
+}
+.current-menu{
+    color: #FFCA2C !important;
+}

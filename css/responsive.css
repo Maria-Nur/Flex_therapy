@@ -1,0 +1,5 @@
+@media only screen and (min-width: 425px) and (max-width: 600px) {
+    .flex{
+        padding: 60px 0px !important;
+    }
+  }
